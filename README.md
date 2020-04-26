@@ -1,2 +1,2 @@
-# go-concurrency Programs
+# go-concurrency
 Useful programs on go concurrency
