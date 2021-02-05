@@ -23,7 +23,6 @@ func main() {
 		"https://www.golang.com",
 		"https://www.wikipedia.com",
 		"http://www.facebook.com",
-		"https://www.sixt.com",
 		"https://www.uber.com",
 		"http://www.ola.com",
 		"https://www.swiggy.com",
